@@ -1,0 +1,17 @@
+/* styles.css */
+
+#content{
+    border: solid black 2px;
+}
+#heroSection{
+  text-align: center;
+}
+
+#heroImage {
+  margin-top:1rem;
+}
+#footer {
+  display: flex;
+  gap: 3rem;
+  padding: 8rem;
+}
